@@ -4,7 +4,7 @@
 <body>
   <h1>Project Name: Expense-Tracker</h1>
   <h2>Live Website</h2>
-  <p><a href="#">Live website https://calm-marshmallow-aac616.netlify.app/</a></p>
+  <p><a href="#">https://calm-marshmallow-aac616.netlify.app/</a></p>
 
   <h2>Tech used</h2>
   <ul>
